@@ -1,0 +1,11 @@
+C:\Users\Ryan Smith\source\repos\Practice Review\Practice Review\Practice Review\bin\Debug\netcoreapp2.1\Practice Review.deps.json
+C:\Users\Ryan Smith\source\repos\Practice Review\Practice Review\Practice Review\bin\Debug\netcoreapp2.1\Practice Review.runtimeconfig.json
+C:\Users\Ryan Smith\source\repos\Practice Review\Practice Review\Practice Review\bin\Debug\netcoreapp2.1\Practice Review.runtimeconfig.dev.json
+C:\Users\Ryan Smith\source\repos\Practice Review\Practice Review\Practice Review\bin\Debug\netcoreapp2.1\Practice Review.dll
+C:\Users\Ryan Smith\source\repos\Practice Review\Practice Review\Practice Review\bin\Debug\netcoreapp2.1\Practice Review.pdb
+C:\Users\Ryan Smith\source\repos\Practice Review\Practice Review\Practice Review\obj\Debug\netcoreapp2.1\Practice Review.csprojAssemblyReference.cache
+C:\Users\Ryan Smith\source\repos\Practice Review\Practice Review\Practice Review\obj\Debug\netcoreapp2.1\Practice Review.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Smith\source\repos\Practice Review\Practice Review\Practice Review\obj\Debug\netcoreapp2.1\Practice Review.AssemblyInfoInputs.cache
+C:\Users\Ryan Smith\source\repos\Practice Review\Practice Review\Practice Review\obj\Debug\netcoreapp2.1\Practice Review.AssemblyInfo.cs
+C:\Users\Ryan Smith\source\repos\Practice Review\Practice Review\Practice Review\obj\Debug\netcoreapp2.1\Practice Review.dll
+C:\Users\Ryan Smith\source\repos\Practice Review\Practice Review\Practice Review\obj\Debug\netcoreapp2.1\Practice Review.pdb
